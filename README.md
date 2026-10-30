@@ -1,14 +1,12 @@
 <div align="center">
 
-# 你好，我是 Ye1 👋
+<img src="https://raw.githubusercontent.com/Nzjye1/Nzjye1/main/assets/ye1-avatar.png" alt="Ye1 品牌头像" width="128">
 
-### 医学科研 × AI
+# Ye1 Skills
 
-**为医生开发实用的科研工具与工作流。**
+**让科研变得更简单**
 
-我关注临床科研中的具体问题，希望把 AI 变成医生实际用得上的工具。
-
-[当前项目](#当前项目) · [安装与入门](https://github.com/Nzjye1/ye1-research-skills#下载安装与开始使用) · [联系与合作](#联系与合作)
+实用的科研 Skill 与 AI 工具，从研究问题走向分析、表图与写作。
 
 </div>
 
@@ -16,36 +14,26 @@
 
 ## 当前项目
 
-### [Ye1 Research Skills · 医生的科研全流程 Skill](https://github.com/Nzjye1/ye1-research-skills)
+### [Ye1 Meta｜系统综述与 Meta 分析](https://github.com/Nzjye1/ye1-meta-analysis)
 
-把研究想法或已有数据，逐步推进为方案、分析、图表和中英文论文审阅稿。
+从研究想法、题录、全文或研究级汇总数据出发，串起文献整理、Meta 分析、证据表图与可编辑英文 Word 草稿。
 
-| 38 个入口 | 两种起点 | 按需使用 |
-|:---:|:---:|:---:|
-| **1 个总流程 + 37 个专项** | **已有数据 / 临床问题** | **单项任务 / 完整流程** |
-| 研究设计、数据、文献、图表与写作 | 从现实材料和目标开始 | 每个入口可独立、重复调用 |
+**Windows x64 · 支持本地文件与命令执行的 Agent · 首次联网准备依赖**
 
-<p align="center">
-  <a href="https://github.com/Nzjye1/ye1-research-skills">
-    <img src="https://raw.githubusercontent.com/Nzjye1/ye1-research-skills/main/assets/cover.png" alt="Ye1科研流程原创示意：已有数据与临床问题两种起点" width="820">
-  </a>
-</p>
+[**查看功能与案例 →**](https://github.com/Nzjye1/ye1-meta-analysis) · [**安装与开始 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL.md)
 
-<p align="center">
-  <a href="https://github.com/Nzjye1/ye1-research-skills/archive/refs/heads/main.zip"><strong>下载完整仓库 ZIP</strong></a> ·
-  <a href="https://github.com/Nzjye1/ye1-research-skills#下载安装与开始使用"><strong>安装与入门</strong></a> ·
-  <a href="https://github.com/Nzjye1/ye1-research-skills#完整38项功能">38 项功能</a> ·
-  <a href="https://github.com/Nzjye1/ye1-research-skills#实际产出">真实产出示例</a>
-</p>
+### [Ye1 临床分析 Skill](https://github.com/Nzjye1/ye1-clinical-research-skill)
 
-> **公开预览 · 通用版按免费方向准备。** 宿主、模型与执行环境可能另收费；许可证尚未选择，不表示授予修改、商用或再分发权。先用公开或合成材料，未知宿主暂停研究数据步骤；真实宿主安装及全部功能端到端验证尚未完成。[验证范围](https://github.com/Nzjye1/ye1-research-skills#环境与验证范围) · [隐私说明](https://github.com/Nzjye1/ye1-research-skills/blob/main/docs/PRIVACY.md)
+提供本地 CSV 和研究问题，让 Agent 完成基线描述、关联、生存、预测等统计分析，生成结果表图与说明。
+
+**Windows x64 + Codex · v0.3.0**
+
+[**查看功能与案例 →**](https://github.com/Nzjye1/ye1-clinical-research-skill) · [**安装与开始 →**](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/docs/showcase/INSTALL.md)
 
 ---
 
 ## 联系与合作
 
-欢迎交流真实科研需求、使用反馈与合作想法。
+欢迎交流科研需求、使用反馈与合作想法。
 
-| 合作邮箱 | 微信 |
-|:---|:---|
-| [nzjye1@163.com](mailto:nzjye1@163.com) | **ye1aikeyan**（请备注 GitHub＋来意） |
+微信：**ye1aikeyan** · 邮箱：[ye1aikeyan@163.com](mailto:ye1aikeyan@163.com)
