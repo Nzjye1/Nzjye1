@@ -40,12 +40,12 @@
 
 | 产品 | 研究方向与功能 |
 |---|---|
-| **MIMIC＋eICU** | 面向重症临床研究，开展队列构建、结局分析与预测研究。 |
-| **FAERS＋JADER** | 面向药物安全性研究，组织不良事件与安全性信号分析流程。 |
-| **NHANES＋CHARLS＋KNHANES** | 面向人群健康、营养与慢病研究，选择数据库开展分库分析与结果对照。 |
-| **INSPIRE＋MOVER＋VitalDB** | 面向围术期临床研究，按研究问题选择数据源，生成分析、图表与研究材料。 |
-| **JAEB** | 面向糖尿病与连续血糖监测（CGM）研究，组织指标分析与写作流程。 |
-| **SEER** | 面向肿瘤队列、生存与预测研究，组织研究方案、分析图表与写作材料。 |
+| [**MIMIC＋eICU →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/mimic-eicu.md) | 面向重症临床研究，开展队列构建、结局分析与预测研究。 |
+| [**FAERS＋JADER →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/faers-jader.md) | 面向药物安全性研究，组织不良事件与安全性信号分析流程。 |
+| [**NHANES＋CHARLS＋KNHANES →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/nhanes-charls-knhanes.md) | 面向人群健康、营养与慢病研究，选择数据库开展分库分析与结果对照。 |
+| [**INSPIRE＋MOVER＋VitalDB →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/perioperative.md) | 面向围术期临床研究，按研究问题选择数据源，生成分析、图表与研究材料。 |
+| [**JAEB →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/jaeb.md) | 面向糖尿病与连续血糖监测（CGM）研究，组织指标分析与写作流程。 |
+| [**SEER →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/seer.md) | 面向肿瘤队列、生存与预测研究，组织研究方案、分析图表与写作材料。 |
 
 **数据库系列为商业产品，展示产品功能，源码保持私有。** 产品资料与使用咨询可通过下方联系方式获取。
 
