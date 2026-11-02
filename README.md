@@ -24,13 +24,23 @@
 
 [**查看功能与案例 →**](https://github.com/Nzjye1/ye1-meta-analysis) · [**Windows 安装 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL.md) · [**Mac 安装 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL-MAC.md)
 
-### [Ye1 临床分析 Skill](https://github.com/Nzjye1/ye1-clinical-research-skill)
 
-提供本地 CSV 和研究问题，让 Agent 完成基线描述、关联、生存、预测等统计分析，生成结果表图与说明。
+---
 
-**Windows x64 / Apple 芯片 Mac · Codex · v0.3.0**
+## Ye1 医生科研 Skill
 
-[**查看功能与案例 →**](https://github.com/Nzjye1/ye1-clinical-research-skill) · [**Windows 安装 →**](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/docs/showcase/INSTALL.md) · [**Mac 安装 →**](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/macos/INSTALL.md)
+从研究方向、文献、材料到投稿，让 AI Agent 帮你推进医学科研。
+
+| Skill | 能做什么 |
+|---|---|
+| [**Ye1 医学论文投稿助手 →**](https://github.com/Nzjye1/ye1-journal-submission) | 从选刊、投稿准备到投稿进度管理，为医学论文作者组织全流程工作。 |
+| [**Ye1 医学文献调研 →**](https://github.com/Nzjye1/ye1-medical-literature-research) | 围绕医学问题检索、筛选和综合文献，建立可持续使用的本地文献库。 |
+| [**Ye1 医学文献精读与汇报 →**](https://github.com/Nzjye1/ye1-medical-literature-reading) | 读懂论文、比较研究证据，并把重点内容整理成文献汇报。 |
+| [**Ye1 临床科研数据预处理 →**](https://github.com/Nzjye1/ye1-clinical-research-preprocess) | 在本地整理临床科研表格，生成保留研究信息的工作副本。 |
+| [**Ye1 医学研究伦理与登记 →**](https://github.com/Nzjye1/ye1-research-ethics-registration) | 结合研究方案和医院要求，协助准备伦理审查与研究登记材料。 |
+| [**Ye1 医生晋升与科研规划 →**](https://github.com/Nzjye1/ye1-doctor-promotion-planning) | 结合岗位条件和已有基础，统筹医生晋升、课题、文章与研究工作。 |
+| [**Ye1 临床研究方案与数据准备 →**](https://github.com/Nzjye1/ye1-clinical-study-design) | 从临床工作和已有资料中寻找研究方向，形成研究方案并准备数据。 |
+| [**Ye1 临床分析 Skill →**](https://github.com/Nzjye1/ye1-clinical-research-skill) | 提供本地 CSV 和研究问题，完成统计分析、结果表图与说明。 [Windows 安装](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/docs/showcase/INSTALL.md) · [Mac 安装](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/macos/INSTALL.md) |
 
 ---
 
