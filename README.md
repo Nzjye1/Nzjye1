@@ -36,6 +36,7 @@
 | [**Ye1 医学论文投稿助手 →**](https://github.com/Nzjye1/ye1-journal-submission) | 从选刊、投稿准备到投稿进度管理，为医学论文作者组织全流程工作。 |
 | [**Ye1 医学文献调研 →**](https://github.com/Nzjye1/ye1-medical-literature-research) | 围绕医学问题检索、筛选和综合文献，建立可持续使用的本地文献库。 |
 | [**Ye1 医学文献精读与汇报 →**](https://github.com/Nzjye1/ye1-medical-literature-reading) | 读懂论文、比较研究证据，并把重点内容整理成文献汇报。 |
+| [**Ye1 论文图形摘要 →**](https://github.com/Nzjye1/ye1-graphical-abstract) | 根据论文与原始图表，制作融合医学插画的可编辑图形摘要。 |
 | [**Ye1 临床科研数据预处理 →**](https://github.com/Nzjye1/ye1-clinical-research-preprocess) | 在本地整理临床科研表格，生成保留研究信息的工作副本。 |
 | [**Ye1 医学研究伦理与登记 →**](https://github.com/Nzjye1/ye1-research-ethics-registration) | 结合研究方案和医院要求，协助准备伦理审查与研究登记材料。 |
 | [**Ye1 医生晋升与科研规划 →**](https://github.com/Nzjye1/ye1-doctor-promotion-planning) | 结合岗位条件和已有基础，统筹医生晋升、课题、文章与研究工作。 |
