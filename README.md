@@ -12,9 +12,9 @@
 
 ---
 
-## 开源 Skill
+## 免费科研 Skill
 
-把仓库首页的安装提示词复制给 Agent，即可开始安装。自有代码采用 MIT 许可。
+把仓库首页的安装提示词复制给 Agent，即可开始安装。以下公开 Skill 中，Ye1 拥有授权权利的内容采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)（署名、非商业使用）；第三方材料保留原许可，历史版本已授予的 MIT 权利继续有效。具体范围见各仓库。
 
 ### [Ye1 Meta｜系统综述与 Meta 分析](https://github.com/Nzjye1/ye1-meta-analysis)
 
