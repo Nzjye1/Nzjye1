@@ -27,21 +27,36 @@
 
 ---
 
-## Ye1 医生科研 Skill
+## Ye1 临床文章线
 
-从研究方向、文献、材料到投稿，让 AI Agent 帮你推进医学科研。
+从研究想法、已有数据、论文草稿或审稿意见出发，让 AI Agent 帮你推进医学科研。可以从临床文章助手开始，也可直接使用需要的单项 Skill。
 
 | Skill | 能做什么 |
 |---|---|
-| [**Ye1 医学论文投稿助手 →**](https://github.com/Nzjye1/ye1-journal-submission) | 从选刊、投稿准备到投稿进度管理，为医学论文作者组织全流程工作。 |
-| [**Ye1 医学文献调研 →**](https://github.com/Nzjye1/ye1-medical-literature-research) | 围绕医学问题检索、筛选和综合文献，建立可持续使用的本地文献库。 |
-| [**Ye1 医学文献精读与汇报 →**](https://github.com/Nzjye1/ye1-medical-literature-reading) | 读懂论文、比较研究证据，并把重点内容整理成文献汇报。 |
-| [**Ye1 论文图形摘要 →**](https://github.com/Nzjye1/ye1-graphical-abstract) | 根据论文与原始图表，制作融合医学插画的可编辑图形摘要。 |
-| [**Ye1 临床科研数据预处理 →**](https://github.com/Nzjye1/ye1-clinical-research-preprocess) | 在本地整理临床科研表格，生成保留研究信息的工作副本。 |
-| [**Ye1 医学研究伦理与登记 →**](https://github.com/Nzjye1/ye1-research-ethics-registration) | 结合研究方案和医院要求，协助准备伦理审查与研究登记材料。 |
-| [**Ye1 医生晋升与科研规划 →**](https://github.com/Nzjye1/ye1-doctor-promotion-planning) | 结合岗位条件和已有基础，统筹医生晋升、课题、文章与研究工作。 |
-| [**Ye1 临床研究方案与数据准备 →**](https://github.com/Nzjye1/ye1-clinical-study-design) | 从临床工作和已有资料中寻找研究方向，形成研究方案并准备数据。 |
-| [**Ye1 临床分析 Skill →**](https://github.com/Nzjye1/ye1-clinical-research-skill) | 提供本地 CSV 和研究问题，完成统计分析、结果表图与说明。 [Windows 安装](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/docs/showcase/INSTALL.md) · [Mac 安装](https://github.com/Nzjye1/ye1-clinical-research-skill/blob/main/macos/INSTALL.md) |
+| [**Ye1 临床文章助手 →**](https://github.com/Nzjye1/ye1-clinical-article-assistant) | 你想完成一篇临床文章？从你现在的进度开始。 |
+| [**Ye1 临床研究方案与数据准备 →**](https://github.com/Nzjye1/ye1-clinical-study-design) | 从临床问题和已有资料出发，形成可执行的研究方案。 |
+| [**Ye1 医学文献调研 →**](https://github.com/Nzjye1/ye1-medical-literature-research) | 围绕医学问题，检索、筛选和综合相关文献。 |
+| [**Ye1 医学研究伦理与登记 →**](https://github.com/Nzjye1/ye1-research-ethics-registration) | 结合研究方案和实际要求，准备伦理审查与研究登记材料。 |
+| [**Ye1 临床医学数据整理 →**](https://github.com/Nzjye1/ye1-clinical-data-organizing) | 把手头的临床资料整理成可以核对的研究数据。 |
+| [**Ye1 临床医学数据预处理 →**](https://github.com/Nzjye1/ye1-clinical-research-preprocess) | 在本地处理临床科研表格，保留研究资料和原件。 |
+| [**Ye1 临床分析 →**](https://github.com/Nzjye1/ye1-clinical-analysis-python) | 从研究问题和本地数据出发，完成适用的临床统计分析。 |
+| [**Ye1 医学科研图片美化与组图 →**](https://github.com/Nzjye1/ye1-medical-research-figure) | 根据已有结果绘图，整理和美化论文图片。 |
+| [**Ye1 医学论文写作 →**](https://github.com/Nzjye1/ye1-paper-writing) | 根据真实研究材料，撰写或补写医学论文。 |
+| [**Ye1 医学论文去AI味 →**](https://github.com/Nzjye1/ye1-paper-humanizer) | 让医学论文表达更自然，保留研究事实和学术语气。 |
+| [**Ye1 医学论文检查 →**](https://github.com/Nzjye1/ye1-paper-review) | 在投稿前或修改过程中，找出论文中值得处理的问题。 |
+| [**Ye1 医学论文返修 →**](https://github.com/Nzjye1/ye1-paper-revision) | 围绕审稿意见修改稿件，整理逐条回复。 |
+| [**Ye1 医学论文图形摘要 →**](https://github.com/Nzjye1/ye1-graphical-abstract) | 根据论文内容制作可编辑的图形摘要。 |
+| [**Ye1 医学论文投稿助手 →**](https://github.com/Nzjye1/ye1-journal-submission) | 从选刊、准备材料到投稿进度管理，协助推进医学论文投稿。 |
+| [**Ye1 医学文献精读与汇报 →**](https://github.com/Nzjye1/ye1-medical-literature-reading) | 读懂论文，整理适合汇报的重点内容。 |
+
+各 Skill 可单独使用；临床文章助手是轻量入口，根据实际任务和当前 Agent 可用能力接续，不包含其他 Skill。患者逐行资料应留在数据所在电脑，具体研究和稿件仍需作者核对。
+
+## 其他医生科研 Skill
+
+| Skill | 能做什么 |
+|---|---|
+| [**Ye1 医生晋升与科研规划 →**](https://github.com/Nzjye1/ye1-doctor-promotion-planning) | 结合岗位条件和已有基础，统筹晋升、课题、文章与研究工作。 |
+| [**Ye1 临床分析（原版本） →**](https://github.com/Nzjye1/ye1-clinical-research-skill) | 原临床分析产品；文章线 Python 版请见上方“Ye1 临床分析”。 |
 
 ---
 
