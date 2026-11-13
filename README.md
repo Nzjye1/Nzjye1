@@ -18,11 +18,11 @@
 
 ### [Ye1 Meta｜系统综述与 Meta 分析](https://github.com/Nzjye1/ye1-meta-analysis)
 
-从研究想法、题录、全文或研究级汇总数据出发，串起文献整理、Meta 分析、证据表图与可编辑英文 Word 草稿。
+**最新正式版：20261113-r2（联网安装）** · Windows x64 / Apple 芯片 Mac（macOS 14+）
 
-**Windows x64 / Apple 芯片 macOS 14+ · 支持本地文件与命令执行的 Agent**
+可以从临床问题开始，让 AI 帮你探索选题、查重；也可以带已有题目、文献或研究级数据接着做。确认方向后分批检索、去重，再确认是否获取全文，接着完成筛选、提取、Meta 分析、图表与可编辑英文 Word 草稿。
 
-[**查看功能与案例 →**](https://github.com/Nzjye1/ye1-meta-analysis) · [**Windows 安装 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL.md) · [**Mac 安装 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL-MAC.md)
+[**下载 Windows / Mac 安装包 →**](https://github.com/Nzjye1/ye1-meta-analysis/releases/download/v20261113-r2/Ye1-Meta-Windows-Mac-Online-20261113-r2.zip) · [**安装说明 →**](https://github.com/Nzjye1/ye1-meta-analysis/blob/main/INSTALL.md) · [**查看最新源码与案例 →**](https://github.com/Nzjye1/ye1-meta-analysis/tree/main)
 
 
 ---
