@@ -73,7 +73,9 @@
 | [**JAEB →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/jaeb.md) | 面向糖尿病与连续血糖监测（CGM）研究，组织指标分析与写作流程。 |
 | [**SEER →**](https://github.com/Nzjye1/Nzjye1/blob/main/products/seer.md) | 面向肿瘤队列、生存与预测研究，组织研究方案、分析图表与写作材料。 |
 
-**数据库系列为商业产品，展示产品功能，源码保持私有。** 产品资料与使用咨询可通过下方联系方式获取。
+**数据库系列为商业产品，展示产品功能，源码保持私有。**
+
+咨询数据库 Skill，请联系微信 **ye1aikeyan**，添加时请备注具体数据库名称。
 
 ---
 
